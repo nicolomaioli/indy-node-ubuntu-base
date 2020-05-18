@@ -1,6 +1,7 @@
 # indy-node-ubuntu-base
 
-Container for development with `indy-sdk` and `node`
+Container for development with `indy-sdk` and `node`. On Docker Hub:
+`nmaioli/indy-node-ubuntu-base`.
 
 ## Specs
 
